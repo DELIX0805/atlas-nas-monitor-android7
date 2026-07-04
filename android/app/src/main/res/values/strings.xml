@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Atlas NAS Monitor</string>
+    <string name="title_activity_main">Atlas NAS Monitor</string>
+    <string name="package_name">com.delix.nasmonitor</string>
+    <string name="custom_url_scheme">com.delix.nasmonitor</string>
+</resources>

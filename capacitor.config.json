@@ -1,0 +1,8 @@
+{
+  "appId": "com.delix.nasmonitor",
+  "appName": "Atlas NAS Monitor",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}
